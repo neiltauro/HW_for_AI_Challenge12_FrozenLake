@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1745479586" />
+    <testcase name="qvalue_test" classname="test_qvalue_accel" file="/mnt/c/Users/neilt/Documents/PSU/HW_For_AI/week_3/FrozenLake_Accerator/frozenlake_hw_accel/sim/test_qvalue_accel.py" lineno="5" time="0.00577092170715332" sim_time_ns="2.001" ratio_time="346.7383724023962" />
+  </testsuite>
+</testsuites>
